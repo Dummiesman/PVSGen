@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PVSGen": {
+      "commandName": "Project",
+      "commandLineArgs": "\"E:\\Games\\MM2\\Retail Extracted\\city\\sf.psdl\" -exportphysicsworld -debugroom 1416666"
+    }
+  }
+}

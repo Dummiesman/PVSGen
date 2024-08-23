@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PVSGen", "PVSGen\PVSGen.csproj", "{C54B7ACA-6D80-4AD8-9860-4D8769EC1F8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C54B7ACA-6D80-4AD8-9860-4D8769EC1F8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C54B7ACA-6D80-4AD8-9860-4D8769EC1F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C54B7ACA-6D80-4AD8-9860-4D8769EC1F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C54B7ACA-6D80-4AD8-9860-4D8769EC1F8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7DFBEF0-F2E4-4777-AB01-F0F86745FB2A}
+	EndGlobalSection
+EndGlobal
